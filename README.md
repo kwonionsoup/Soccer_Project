@@ -2,8 +2,9 @@
 
 Welcome to the Strategic Formation and Tactical Flexibility Analysis project, where data meets the pitch to inform smarter soccer strategies. The objective is clear: to elevate the team's tactical game using rigorous analysis and innovative insights.
 
-For a comprehensive understanding, you can access the [FINAL REPORT](Final_Report/final_report.py).
+**For a comprehensive understanding, you can access the [FINAL REPORT](report/final_report.ipynb).**
 
+**To dive deeper into the methodology and code that underpin our findings, explore the[CODE & ANALYSIS](report/report_with_code.ipynb)**
 
 ## Introduction
 
