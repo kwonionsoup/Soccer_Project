@@ -12,7 +12,7 @@ In the competitive realm of professional soccer, outsmarting the opposition is a
 
 ## Data Source
 
-The foundation of our analysis rests on the comprehensive dataset provided by [StatsBomb](https://statsbomb.com/), renowned for their meticulous collection of soccer analytics data. This dataset offers detailed event data from various competitions, including player actions, positions, match events, and much more, allowing us to dissect and understand the intricacies of soccer tactics and formations.
+The foundation of the analysis rests on the comprehensive dataset provided by [StatsBomb](https://statsbomb.com/), renowned for their meticulous collection of soccer analytics data. This dataset offers detailed event data from various competitions, including player actions, positions, match events, and much more, allowing us to dissect and understand the intricacies of soccer tactics and formations.
 
 For further details on the data and its structure, please refer to the [StatsBomb Data Documentation](https://github.com/statsbomb/open-data).
 
