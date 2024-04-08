@@ -10,6 +10,13 @@ Welcome to the Strategic Formation and Tactical Flexibility Analysis project, wh
 
 In the competitive realm of professional soccer, outsmarting the opposition is as crucial as outplaying them. This project draws strategic inspiration from world-class soccer performances, applying these insights to craft a forward-thinking tactical approach.
 
+## Data Source
+
+The foundation of our analysis rests on the comprehensive dataset provided by [StatsBomb](https://statsbomb.com/), renowned for their meticulous collection of soccer analytics data. This dataset offers detailed event data from various competitions, including player actions, positions, match events, and much more, allowing us to dissect and understand the intricacies of soccer tactics and formations.
+
+For further details on the data and its structure, please refer to the [StatsBomb Data Documentation](https://github.com/statsbomb/open-data).
+
+
 ## Project Insights
 
 Central to the analysis is the integration of strategic roles for key players, analogous to the positions and playstyles observed in high-profile tournaments. The findings highlight:
