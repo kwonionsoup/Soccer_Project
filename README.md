@@ -4,7 +4,7 @@ Welcome to the Strategic Formation and Tactical Flexibility Analysis project, wh
 
 **For a comprehensive understanding, you can access the [FINAL REPORT](report/final_report.ipynb).**
 
-**To dive deeper into the methodology and code that underpin our findings, explore the [CODE & ANALYSIS](report/report_with_code.ipynb)**
+**To dive deeper into the methodology and code that underpin the findings, explore the [CODE & ANALYSIS](report/report_with_code.ipynb)**
 
 ## Introduction
 
